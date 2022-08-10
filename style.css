@@ -316,10 +316,13 @@ footer{
 }
 @media(max-width:500px){
  footer{
-  footer{
   width:auto;
   height:10vh;
   background-color:white;
+  }
 }
- }
-}       
+h3{
+color:red;
+ font-size:20px;
+ font-family:fantasy;
+}
