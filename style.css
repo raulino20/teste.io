@@ -310,8 +310,16 @@
 
         }
 footer{
-width:auto;
+ width:auto;
  height:10vh;
  background-color:white;
 }
-        
+@media(max-width:500px){
+ footer{
+  footer{
+  width:auto;
+  height:10vh;
+  background-color:white;
+}
+ }
+}       
