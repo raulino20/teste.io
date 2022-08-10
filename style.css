@@ -293,7 +293,7 @@
      
         
         .gatos{
-            margin: 50% auto auto auto;
+            margin: 20% auto auto auto;
         }
 
        
@@ -324,7 +324,7 @@ footer{
   flex-direction:row;
   align-items:center;
   justify-content:center;
-  margin: 50% auto auto auto;
+  margin: 20% auto auto auto;
   width:auto;
   height:10vh;
   background-color:white;
