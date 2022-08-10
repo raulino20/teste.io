@@ -28,7 +28,7 @@
         background-color: black;
         align-items: center;
         min-width:468px;
-        height: 500px;
+        height:auto;
         background-image: url(starfall-gif-background.800.gif);
         background-attachment: fixed;
         background-repeat:repeat;
