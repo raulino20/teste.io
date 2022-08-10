@@ -41,7 +41,7 @@
         background-color: black;
         align-items: center;
         min-width:500px;
-        height:auto;
+        height:;
         background-image: url(starfall-gif-background.800.gif);
         background-attachment: fixed;
         background-repeat:repeat;
@@ -182,7 +182,7 @@
 
     details{
        
-        margin: 20px auto 20px auto;
+        margin: 30px auto 80px auto;
         align-items:left;
         color: aliceblue;
         width: auto;
@@ -293,7 +293,7 @@
      
         
         .gatos{
-            margin: 80px auto auto auto;
+            margin: 200px auto auto auto;
         }
 
        
