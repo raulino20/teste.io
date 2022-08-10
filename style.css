@@ -27,12 +27,12 @@
        scroll-behavior: smooth;
         background-color: black;
         align-items: center;
-        min-width:468px;
+        min-width:500px;
         height:auto;
         background-image: url(starfall-gif-background.800.gif);
         background-attachment: fixed;
-        background-repeat:no-repeat;
-        background-size: 100%;
+        background-repeat:repeat;
+        background-size:cover;
       
     }
 
