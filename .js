@@ -1,1 +1,1 @@
-var welcome = window.alert("seja bem vindo");
+window.alert("made by: Cauã Raulino");
