@@ -285,7 +285,9 @@
         footer{
            height: 12vh;
            width: auto;
-           background-color:gray;
+           background-color:rgb(15,15,15);
+         align-items:center;
+         text-align:center;
           
             
         }
