@@ -1,1 +1,1 @@
-window.alert("seja bem vindp");
+var welcome = window.alert("seja bem vindo");
