@@ -314,8 +314,10 @@ footer{
  height:10vh;
  background-color:white;
 }
+
 @media(max-width:500px){
  footer{
+  margin: 100% auto auto auto;
   width:auto;
   height:10vh;
   background-color:white;
