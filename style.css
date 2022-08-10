@@ -70,6 +70,7 @@
                 align-items: center;
                 text-align: center;
                 background-size: 100%;
+         box-shadow: 0.3rem 0.3rem 0.5rem white;
                 width:auto;
                 height: auto;
                 background-color: rgba(35,35,35,1);
