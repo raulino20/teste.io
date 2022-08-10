@@ -31,7 +31,7 @@
         height:auto;
         background-image: url(starfall-gif-background.800.gif);
         background-attachment: fixed;
-        background-repeat:repeat;
+        background-repeat:no-repeat;
         background-size: 100%;
       
     }
