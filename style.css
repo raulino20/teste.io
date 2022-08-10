@@ -276,7 +276,7 @@
         width: 160px;
         height: 160px;
       border-radius: auto;
-      border-color: aliceblue;
+      border-color: red;
       border-style: dashed;
       transition:1s;
       }
